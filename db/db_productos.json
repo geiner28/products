@@ -1,0 +1,31 @@
+[ 
+    
+
+
+{"id": 1,
+    "name": "ron",
+    "price": "25000",
+    "stock": "2"
+  },
+
+    {
+        "id": 2,
+        "name": "vodka",
+        "price": "35000",
+        "stock": "5"
+    },
+    {
+        "id": 3,
+        "name": "tequila",
+        "price": "45000",
+        "stock": "3"
+    }
+
+
+    
+
+
+]
+  
+
+
