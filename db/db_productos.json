@@ -1,31 +1,38 @@
-[ 
-    
-
-
-{"id": 1,
+[
+  {
+    "id": 1,
     "name": "ron",
     "price": "25000",
     "stock": "2"
   },
-
-    {
-        "id": 2,
-        "name": "vodka",
-        "price": "35000",
-        "stock": "5"
-    },
-    {
-        "id": 3,
-        "name": "tequila",
-        "price": "45000",
-        "stock": "3"
-    }
-
-
-    
-
-
+  {
+    "id": 2,
+    "name": "vodka",
+    "price": "35000",
+    "stock": "5"
+  },
+  {
+    "id": 3,
+    "name": "tequila",
+    "price": "45000",
+    "stock": "3"
+  },
+  {
+    "id": 4,
+    "name": "vino",
+    "price": "13000",
+    "stock": "4"
+  },
+  {
+    "id": 5,
+    "name": "aguardiente",
+    "price": "150000",
+    "stock": "5"
+  },
+  {
+    "id": 6,
+    "name": "jinebra",
+    "price": "80000",
+    "stock": "6"
+  }
 ]
-  
-
-
